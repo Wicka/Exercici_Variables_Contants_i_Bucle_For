@@ -1,0 +1,1 @@
+# Exercici_Variables_Contants_i_Bucle_For
