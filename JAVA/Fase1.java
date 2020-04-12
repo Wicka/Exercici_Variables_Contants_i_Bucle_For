@@ -1,5 +1,5 @@
 /*
- * FASE 1 
+ * FASE 1  
 ●	Crea tres variables string e inicialitzales amb les dades pertinents (nom, cognom1, cognom2).
 ●	Crea tres variables int e inicialitzales amb les dades pertinents (dia, mes, any).
 ●	Mostra per pantalla les variables string concatenant-les en aquest ordre (cognom1 + cognom2, + nom).

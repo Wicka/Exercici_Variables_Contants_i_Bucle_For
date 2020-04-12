@@ -1,5 +1,5 @@
 /*
- * FASE 2 
+ * FASE 2  
 Sabent que l’any 1948 es un any de traspàs:
 ●	Creeu una constant amb el valor de l’any (1948).
 ●	Creeu una variable que guardi cada quan hi ha un any de traspàs.
