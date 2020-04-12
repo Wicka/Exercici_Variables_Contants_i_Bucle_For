@@ -1,5 +1,5 @@
 /*
- * FASE 3  
+ * FASE 3   
 ●	Partint de l’any 1948 heu de fer un bucle for i mostrar els anys de traspàs fins arriba al vostre any de naixement. 
 	ATENCIO! Haureu de canviar el tipus de variable de l’any 1948 per poder modificar-la. 
 ●	Creeu una variable bool que sera certa si l’any de naixement és de traspàs o falsa si no ho és.(0,75 punts)
