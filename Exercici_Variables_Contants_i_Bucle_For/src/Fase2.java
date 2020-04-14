@@ -1,5 +1,5 @@
 /*
- * FASE 2  
+ * FASE 2 
 Sabent que l’any 1948 es un any de traspàs:
 ●	Creeu una constant amb el valor de l’any (1948).
 ●	Creeu una variable que guardi cada quan hi ha un any de traspàs.
@@ -17,8 +17,7 @@ public class Fase2 {
 		int resultado;
 		resultado =(anyNaixament-anyTraspas)/periodo;
 		
-		System.out.println("Entre el any del teu naixement " + anyNaixament+ " i l'any "+ anyTraspas+" hi han "+resultado+" anys.");
-		
+		System.out.println("Entre el any del teu naixement " + anyNaixament+ " i l'any "+ anyTraspas+" hi han "+resultado+" anys.");		
 		
 		
 	}

@@ -1,5 +1,5 @@
 /*
- * FASE 4  
+ * FASE 4 
 ●	Creeu una variable on juntareu el nom i els cognoms (tot en una variable) 
 	i un altre on juntareu la data de naixement separada per “/” (tot en una variable). 
 	Mostreu per consola les variables del nom complet, 
